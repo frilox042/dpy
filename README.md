@@ -150,7 +150,7 @@ You might need to create special test injections depending on how you've structu
 Setting them up is straight-forward:
 
 ```py
-SetUpTestInjecitons(
+SetUpTestInjections(
     foo=42,
     bar=1337,
 )
